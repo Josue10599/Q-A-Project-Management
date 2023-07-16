@@ -1,15 +1,12 @@
-# AluraQuiz Base
+# Q&A Project Manager
 
-Seja bem vindo ao projeto base do AluraQuiz!!! Passos fundamentais:
-- Marque esse projeto com uma estrela
-- Siga as instruções das aulas e conteúdo extra da Imersão React Next.js
-- Faça o deploy na Vercel e compartilhe
+Seja bem vindo ao projeto Q&A Project Manager, desenvolvidos pelos alunos da UFTPR de Cornélio 
+Procópio no MBA de Engenharia de Software para atividade da disciplina de Gestão de Projeto de 
+Software.
+O objetivo deste projeto é criar um mini game de pergunta e resposta para que alunos possam testar os 
+seus conhecimentos na área de gestão de projeto de software.
 
 ![Capa do Projeto](/_docs/aluraquiz-base.png)
-
-## Como colocar o meu projeto na vitrine da imersão?
-
-> [Vitrine da Imersão](https://aluraquiz-base.alura-challenges.vercel.app/contribuidores)
 
 ## Onde está o Layout base?
 - [Link](https://www.figma.com/file/cg1MIzSRRss8ggpypQbmdD/AluraQuiz?node-id=0%3A1)
