@@ -90,7 +90,7 @@ export default function Home() {
           animate="show"
         />
       </QuizContainer>
-      <GitHubCorner projectUrl="https://github.com/omariosouto" />
+      <GitHubCorner projectUrl="https://github.com/Josue10599/Q-A-Project-Management/tree/main" />
     </QuizBackground>
   );
 }

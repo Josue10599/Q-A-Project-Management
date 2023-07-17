@@ -33,15 +33,13 @@ export default function Footer(props) {
         <img src="https://www.utfpr.edu.br/icones/cabecalho/logo-utfpr/@@images/efcf9caf-6d29-4c24-8266-0b7366ea3a40.png" alt="Logo UTFPR"/>
       </a>
       <p>
-        Aplicação elaborada pelos alunos do curso de 
-        MBA de Engenharia de Software para a matéria de 
-        Gestão de Projetos de Software.
-        {' '}
-        a
+        Aplicação elaborada pelos alunos do curso de
         {' '}
         <a href="http://pos-graduacao-ead.cp.utfpr.edu.br/engenharia-de-software/">
-          <span>Imersão React da Alura</span>
+          <span>MBA de Engenharia de Software</span>
         </a>
+        {' '}
+        para a matéria de Gestão de Projetos de Software.
       </p>
     </FooterWrapper>
   );
